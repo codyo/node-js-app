@@ -1,0 +1,23 @@
+{
+  "name": "nodeapp",
+  "version": "0.0.1",
+  "description": "Express app with EJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "*",
+    "ejs": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://codyo@github.com/codyo/node-js-app.git"
+  },
+  "author": "Cody Tolmasoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codyo/node-js-app/issues"
+  },
+  "homepage": "https://github.com/codyo/node-js-app#readme"
+}
